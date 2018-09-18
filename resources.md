@@ -4,5 +4,6 @@ title: Resources
 sidebar_link: true
 ---
 
-Klaster HPC: 1) 1152 rdzenie CPU (procesory Intel Xeon X5650 oraz AMD Opteron 6174, po 2MB RAM na każdy rdzeń), oraz 2) ponad 12000 rdzeni dostępnych na kartach rozszerzeń GPU Nvidia Tesla oraz koprocesorach Intel Phi.
-Przestrzeń dyskowa (26TB) LustreFS, skonfigurowane pod zadania obliczeniowe wymagające wysokiej przepustowości operacji dyskowych oraz macierz dyskowa Hitachi AMS2500 (1PB). Dedykowana sieć Infiniband QDR40, oraz Fibrechannel.
+
+IT infrastructure:
+HPC cluster: 1) 1152 CPU cores (Intel Xeon X5650 and AMD Opteron 6174 processors, 2MB RAM per core), and 2) more than 12000 cores available on Nvidia Tesla GPU expansion cards and Intel Phi coprocessors. Disk space (26TB) LustreFS, configured for computational tasks requiring high bandwidth disk operations, and Hitachi AMS2500 disk array (1PB). Connected with a dedicated network Infiniband QDR40 and Fibrechannel.
