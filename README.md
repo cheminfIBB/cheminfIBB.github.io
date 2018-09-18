@@ -14,7 +14,19 @@ Only the members of the cheminfIBB are allowed to contribute. Please follow the 
 
 1. Install ruby.
 
+1. Add following lines to your ```~/.bashrc``` file so that you can install gems locally:
+
+> ```.gems``` directory name is just a convention.
+
+```bash
+export GEM_HOME=$HOME/.gems
+
+export PATH="$GEM_HOME/bin:$PATH"
+```
+
 1. Install ```bundler``` with ```gem install bundler```.
+
+> You might need to
 
 1. Go to the repository and run ```bundle install```.
 
