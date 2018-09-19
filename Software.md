@@ -3,7 +3,7 @@ layout: page
 title: Software
 sidebar_link: true
 ---
-
+*Cheminformatics and structural biology*
 - In silico high throughput molecular screening system based on various docking engines (DOCK, GOLD, Autodock, VINA and GLIDE XP / SP) and a dozen evaluation functions including own solutions.
 
 - Platform for managing and analyzing screening results - DiSCuS [1]. The software allows integration of in silico screen results with experimental results and enables the use of advanced cheminformatic tools. DiSCuS has been designed primarily for the analysis of "big data" i.e. large screening campaigns against many targets. The ability to easily and very quickly manipulate data allows for efficient optimization of computational models correlating the properties of low molecular weight compounds with experimental observations (SAR, QSAR, CoMFA, etc.).
@@ -17,3 +17,17 @@ sidebar_link: true
 - A package for comparing and assessing compounds based on pharmacophore features - DeCAF [5]. DeCAF offers a measure of compounds similarity based on their physico-chemical characteristics, abstracting from their chemical structure. There are also weights in the model that can be manually modified to introduce additional information known to the researcher. DeCAF allows large-scale comparisons of low-molecular compounds, creating extensive pharmacophore alignments, and thus building models for assessing the activity of chemical molecules without knowing the structure of their complexes with the receptor.
 
 - PLEC [6], a method to represent ligand-receptor complexes based on local atomic environments. The method allows for very fast and accurate description of the interaction of atoms in complexes, which become the basis for training and optimization of prediction models, e.g. returning binding affinity values. PLEC provides consistent predictive results for various machine learning (ML) models. Even the linear model built using PLEC returns better results than competing solutions such as SIRILID, SPLIF or more advanced evaluation functions like RF.
+
+References:
+1. 	Wójcikowski M, Zielenkiewicz P, Siedlecki P. DiSCuS: an open platform for (not only) virtual screening results management. J Chem Inf Model. 2014;54: 347–354.
+2. 	Wójcikowski M, Zielenkiewicz P, Siedlecki P. Open Drug Discovery Toolkit (ODDT): a new open-source player in the drug discovery field. J Cheminform. 2015;7: 26.
+3. 	Wójcikowski M, Ballester PJ, Siedlecki P. Performance of machine-learning scoring functions in structure-based virtual screening. Sci Rep. 2017;7: 46710.
+4. 	Stepniewska-Dziubinska MM, Zielenkiewicz P, Siedlecki P. Development and evaluation of a deep learning model for protein-ligand binding affinity prediction. Bioinformatics. 2018; doi:10.1093/bioinformatics/bty374
+5. 	Stepniewska-Dziubinska MM, Zielenkiewicz P, Siedlecki P. DeCAF-Discrimination, Comparison, Alignment Tool for 2D PHarmacophores. Molecules. 2017;22. doi:10.3390/molecules22071128
+6. 	Wójcikowski M, Kukiełka M, Stepniewska-Dziubinska M, Siedlecki P. Development of a Protein-Ligand Extended Connectivity (PLEC) Fingerprint and Its Application for Binding Affinity Predictions. 2018; doi:10.26434/chemrxiv.5928406.v1
+
+*Genomics*
+(...)
+
+*Datamining*
+(...)
