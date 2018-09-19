@@ -7,7 +7,7 @@ sidebar_link: true
 
 # IT infrastructure:
 
-1. HPC cluster: 1) 1152 CPU cores (Intel Xeon X5650 and AMD Opteron 6174 processors, 2MB RAM per core), and 2) more than 12000 cores available on Nvidia Tesla GPU expansion cards and Intel Phi coprocessors.
+1. HPC cluster: 1152 CPU cores (Intel Xeon X5650 and AMD Opteron 6174 processors, 2MB RAM per core), and more than 12000 cores available on Nvidia Tesla GPU expansion cards and Intel Phi co-processors.
 
 2. Disk space (26TB) LustreFS, configured for computational tasks requiring high bandwidth disk operations, and Hitachi AMS2500 disk array (1PB). Connected with a dedicated network Infiniband QDR40 and Fibrechannel.
 
