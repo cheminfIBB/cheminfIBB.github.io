@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 sidebar_link: true
+sidebar_sort_order: 1
 ---
 
 Zakład Bioinformatyki IBB PAN od ponad 10 lat z sukcesami stosuje techniki chemii obliczeniowej i chemoinformatyki w projektach naukowych, w szczególności projektując związki niskocząsteczkowe modulujące procesy życiowe i chorobotwórcze.
