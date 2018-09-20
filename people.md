@@ -23,14 +23,13 @@ sidebar_link: true
 </div>
 
 <div style="overflow: auto">
-  <img src="https://placehold.it/200x200" alt="" style="float:left; margin-right: 20px">
-  <p>Pawel Siedlecki, PhD</p>
-  <p>Mail psiedlecki@gmail.com</p>
-  <p>Phone: +48 123456789</p>
-
-  <a href="https://www.researchgate.net/profile/Pawel_Siedlecki">ResearchGate</a>
-  <a href="https://scholar.google.pl/citations?user=4MGHwSYAAAAJ&hl=en">Google Scholar</a>
-  <a href="http://webjeda.com/online-cv/">CV</a>
+  <img src="https://placehold.it/200x200" alt="" style="float:left; margin-right: 200px">
+  <p style="margin-bottom: 0px;">Pawel Siedlecki</p>
+  <p style="margin-bottom: 0px">psiedlecki@gmail.com</p>
+  <p style="margin-bottom: 0px">+48 123456789</p>
+  <p style="margin-bottom: 0px"><a href="https://www.researchgate.net/profile/Pawel_Siedlecki">ResearchGate</a></p>
+  <p style="margin-bottom: 0px"><a href="https://scholar.google.pl/citations?user=4MGHwSYAAAAJ&hl=en">Google Scholar</a></p>
+  <p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">CV</a></p>
 </div>
   - SK
 
