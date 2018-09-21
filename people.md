@@ -4,14 +4,6 @@ title: People
 sidebar_link: true
 ---
 
-### Head
-
-<div style="overflow: auto">
-  <img src="https://placehold.it/200x200" alt="" style="float:left; margin-right: 20px">
-  <p>PZ</p>
-</div>
-
-
 ### Principal investigators
 
 <div class="flex-container">
