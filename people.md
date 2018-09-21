@@ -18,7 +18,7 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/200x200" alt="">
-  <ul style="list-style-type:none;">
+  <ul>
     <li><p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p></li>
     <li><p style="margin-bottom: 0px">psiedlecki@gmail.com</p></li>
     <li><p style="margin-bottom: 0px">+48 123456789</p></li>
@@ -32,7 +32,7 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/200x200" alt="">
-  <ul style="list-style-type:none;">
+  <ul>
     <li><p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p></li>
     <li><p style="margin-bottom: 0px">psiedlecki@gmail.com</p></li>
     <li><p style="margin-bottom: 0px">+48 123456789</p></li>
@@ -47,7 +47,7 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/200x200" alt="">
-  <ul style="list-style-type:none;">
+  <ul>
     <li><p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p></li>
     <li><p style="margin-bottom: 0px">psiedlecki@gmail.com</p></li>
     <li><p style="margin-bottom: 0px">+48 123456789</p></li>

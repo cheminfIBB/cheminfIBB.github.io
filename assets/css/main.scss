@@ -7,6 +7,9 @@ $sidebar-width: 30%;
   display: flex;
   flex-wrap: wrap;
 }
+.flex-container ul {
+  list-style-type: none;
+}
 .flex-container:hover #long-description {
   font-size: 0.8em;
   display: block
