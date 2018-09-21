@@ -10,6 +10,10 @@ $sidebar-width: 30%;
 .flex-container ul {
   list-style-type: none;
 }
+.flex-container p {
+  font-size: 0.8em;
+  margin-bottom: 0px;
+}
 .flex-container:hover #long-description {
   font-size: 0.8em;
   display: block

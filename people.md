@@ -17,12 +17,12 @@ sidebar_link: true
 <div class="flex-container">
   <img src="https://placehold.it/200x200" alt="">
   <ul>
-    <li><p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p></li>
-    <li><p style="margin-bottom: 0px">psiedlecki@gmail.com</p></li>
-    <li><p style="margin-bottom: 0px">+48 123456789</p></li>
-    <li><p style="margin-bottom: 0px"><a href="https://www.researchgate.net/profile/Pawel_Siedlecki">ResearchGate</a></p></li>
-    <li><p style="margin-bottom: 0px"><a href="https://scholar.google.pl/citations?user=4MGHwSYAAAAJ&hl=en">Google Scholar</a></p></li>
-    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">CV</a></p></li>
+    <li><p>Pawel Siedlecki, PhD</p></li>
+    <li><p>psiedlecki@gmail.com</p></li>
+    <li><p>+48 123456789</p></li>
+    <li><p><a href="https://www.researchgate.net/profile/Pawel_Siedlecki">ResearchGate</a></p></li>
+    <li><p><a href="https://scholar.google.pl/citations?user=4MGHwSYAAAAJ&hl=en">Google Scholar</a></p></li>
+    <li><p><a href="http://webjeda.com/online-cv/">CV</a></p></li>
 </ul>
 </div>
 
