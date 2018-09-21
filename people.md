@@ -16,7 +16,7 @@ sidebar_link: true
 
 ##### Using the flexbox, short text
 
-<div style="display: flex; flex-wrap: wrap">
+<div class="flex-container">
   <img src="https://placehold.it/200x200" alt="">
   <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p></li>
@@ -30,7 +30,7 @@ sidebar_link: true
 
 ##### Using the flexbox, long text
 
-<div style="display: flex; flex-wrap: wrap">
+<div class="flex-container">
   <img src="https://placehold.it/200x200" alt="">
   <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p></li>
@@ -45,8 +45,8 @@ sidebar_link: true
 
 ##### Using the float property, short text
 
-<div style="overflow: auto">
-  <img src="https://placehold.it/200x200" alt="" style="float:left; margin-right: 200px">
+<div class="float-container">
+  <img src="https://placehold.it/200x200" alt="">
   <p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p>
   <p style="margin-bottom: 0px">psiedlecki@gmail.com</p>
   <p style="margin-bottom: 0px">+48 123456789</p>
@@ -57,8 +57,8 @@ sidebar_link: true
 
 ##### Using the float property, long text
 
-<div style="overflow: auto">
-  <img src="https://placehold.it/200x200" alt="" style="float:left; margin-right: 20px">
+<div class="float-container">
+  <img src="https://placehold.it/200x200" alt="">
   <p>Pawel Siedlecki, PhD</p>
   <p>Mail psiedlecki@gmail.com</p>
   <p>Phone: +48 123456789</p>
