@@ -16,7 +16,6 @@ sidebar_link: true
 ##### Omics data analysis and visualization
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
-  <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Agnieszka Gromadka, MSc</a></p></li>
     <li><p style="margin-bottom: 0px">agromadka@ibb.waw.pl</p></li>
     <li><p style="margin-bottom: 0px">+48 22 592 5758</p></li>
@@ -31,7 +30,6 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
-  <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Pawel Siedlecki, PhD</a></p></li>
     <li><p style="margin-bottom: 0px">pawel@ibb.waw.pl</p></li>
     <li><p style="margin-bottom: 0px">+48 22 592 5761</p></li>
@@ -42,7 +40,6 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
-  <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Szymon Kaczanowski, PhD</a></p></li>
     <li><p style="margin-bottom: 0px">szymon@ibb.waw.pl</p></li>
     <li><p style="margin-bottom: 0px">+48 22 592 FIXME</p></li>
@@ -53,7 +50,6 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
-  <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Dorota Niedziałek, PhD</a></p></li>
     <li><p style="margin-bottom: 0px">FIXME@ibb.waw.pl</p></li>
     <li><p style="margin-bottom: 0px">+48 22 592 5758</p></li>
@@ -64,7 +60,6 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
-  <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Norbert Odolczyk, MSc</a></p></li>
     <li><p style="margin-bottom: 0px">nodolczyk@ibb.waw.pl</p></li>
     <li><p style="margin-bottom: 0px">+48 22 592 5758</p></li>
@@ -73,7 +68,6 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
-  <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Marta Stępniewska-Dziubińska, MSc</a></p></li>
     <li><p style="margin-bottom: 0px">FIXME@ibb.waw.pl</p></li>
     <li><p style="margin-bottom: 0px">+48 22 592 5758</p></li>
@@ -82,7 +76,6 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
-  <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Małgorzata Habich, MSc</a></p></li>
     <li><p style="margin-bottom: 0px">malgorzata.habich@gmail.com</p></li>
     <li><p style="margin-bottom: 0px">+48 22 592 5758</p></li>
@@ -91,7 +84,6 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
-  <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Dariusz Izak, MSc</a></p></li>
     <li><p style="margin-bottom: 0px">dariusz.izak@ibb.waw.pl</p></li>
     <li><p style="margin-bottom: 0px">+48 22 592 5758</p></li>
@@ -100,7 +92,6 @@ sidebar_link: true
 
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
-  <ul style="list-style-type:none;">
     <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Rafał Jastrząb, MSc</a></p></li>
     <li><p style="margin-bottom: 0px">jastrzab.rafal@gmail.com</p></li>
     <li><p style="margin-bottom: 0px">+48 22 592 5758</p></li>
