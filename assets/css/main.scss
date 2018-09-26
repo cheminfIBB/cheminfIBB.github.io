@@ -7,18 +7,11 @@ $sidebar-width: 30%;
   display: flex;
   flex-wrap: wrap;
 }
-.flex-container:hover #long-description {
+.flex-container ul {
+  list-style-type: none;
+}
+.flex-container p {
   font-size: 0.8em;
-  display: block
-}
-.float-container {
-  overflow: auto;
-}
-.float-container img {
-  float: left;
-  margin-right: 20px;
-}
-#long-description {
-  display: none;
+  margin-bottom: 0px;
 }
 @import "hydeout";
