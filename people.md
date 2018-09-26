@@ -7,98 +7,113 @@ sidebar_link: true
 ### Head
 
 <div style="overflow: auto">
-  <img src="https://placehold.it/200x200" alt="" style="float:left; margin-right: 20px">
-  <p>PZ</p>
+  <img src="https://placehold.it/100x100" alt="" style="float:left; margin-right: 20px">
+  <p>Piotr Zielenkiewicz, PhD, prof.</p>
 </div>
+
+### Staff
+
+##### Omics data analysis and visualization
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul style="list-style-type:none;">
+    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Agnieszka Gromadka, MSc</a></p></li>
+    <li><p style="margin-bottom: 0px">FIXME@ibb.waw.pl</p></li>
+    <li><p style="margin-bottom: 0px">+48 22 592 FIXME</p></li>
+</ul>
+</div>
+
 
 
 ### Principal investigators
 
-##### Using the flexbox, short text
+##### Cheminformatics, structural biology, systems medicine
 
 <div class="flex-container">
-  <img src="https://placehold.it/200x200" alt="">
+  <img src="https://placehold.it/100x100" alt="">
   <ul style="list-style-type:none;">
-    <li><p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p></li>
-    <li><p style="margin-bottom: 0px">psiedlecki@gmail.com</p></li>
-    <li><p style="margin-bottom: 0px">+48 123456789</p></li>
-    <li><p style="margin-bottom: 0px"><a href="https://www.researchgate.net/profile/Pawel_Siedlecki">ResearchGate</a></p></li>
-    <li><p style="margin-bottom: 0px"><a href="https://scholar.google.pl/citations?user=4MGHwSYAAAAJ&hl=en">Google Scholar</a></p></li>
-    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">CV</a></p></li>
+    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Pawel Siedlecki, PhD</a></p></li>
+    <li><p style="margin-bottom: 0px">pawel@ibb.waw.pl</p></li>
+    <li><p style="margin-bottom: 0px">+48 22 592 5761</p></li>
 </ul>
 </div>
 
-##### Using the flexbox, long text
+##### Population genetics, evolutionary bioinformatics
 
 <div class="flex-container">
-  <img src="https://placehold.it/200x200" alt="">
+  <img src="https://placehold.it/100x100" alt="">
   <ul style="list-style-type:none;">
-    <li><p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p></li>
-    <li><p style="margin-bottom: 0px">psiedlecki@gmail.com</p></li>
-    <li><p style="margin-bottom: 0px">+48 123456789</p></li>
-    <li><p style="margin-bottom: 0px"><a href="https://www.researchgate.net/profile/Pawel_Siedlecki">ResearchGate</a></p></li>
-    <li><p style="margin-bottom: 0px"><a href="https://scholar.google.pl/citations?user=4MGHwSYAAAAJ&hl=en">Google Scholar</a></p></li>
-    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">CV</a></p></li>
+    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Szymon Kaczanowski, PhD</a></p></li>
+    <li><p style="margin-bottom: 0px">szymon@ibb.waw.pl</p></li>
+    <li><p style="margin-bottom: 0px">+48 22 592 FIXME</p></li>
 </ul>
 </div>
-<p>Uzyskał doktorat nauk biologicznych w Instytucie Biochemii i Biofizyki PAN. Obecnie w trakcie procesu habilitacyjnego. Pracował w Polskiej Akademii Nauk, na Uniwersytecie Warszawskim oraz DKFZ Heidelberg i MD Anderson Cancer Research Center w Texasie. Autor ponad 20 publikacji naukowych cytowanych ponad 650 razy (2017). Zajmuje się zagadnieniami związanymi z modulacja procesów komórkowych przy pomocy związków chemicznych oraz przewidywaniem ich wpływu na biologiczne systemy złożone. Wykładowca na Wydziale Matematyki, Informatyki i Mechaniki UW gdzie stworzył autorskie programy interdyscyplinarne z zakresu Bioinformatyki oraz Projektowania Leków. Współzałożyciel dwóch startupów w Polsce oraz Seattle, w których komercjalizuje działalność naukową.</p>
 
-##### Using the flexbox, long text on hover
+##### Computational Chemistry, Organic Photovoltaics & Photochemistry
 
 <div class="flex-container">
-  <img src="https://placehold.it/200x200" alt="">
+  <img src="https://placehold.it/100x100" alt="">
   <ul style="list-style-type:none;">
-    <li><p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p></li>
-    <li><p style="margin-bottom: 0px">psiedlecki@gmail.com</p></li>
-    <li><p style="margin-bottom: 0px">+48 123456789</p></li>
-    <li><p style="margin-bottom: 0px"><a href="https://www.researchgate.net/profile/Pawel_Siedlecki">ResearchGate</a></p></li>
-    <li><p style="margin-bottom: 0px"><a href="https://scholar.google.pl/citations?user=4MGHwSYAAAAJ&hl=en">Google Scholar</a></p></li>
-    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">CV</a></p></li>
+    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Dorota Niedziałek, PhD</a></p></li>
+    <li><p style="margin-bottom: 0px">FIXME@ibb.waw.pl</p></li>
+    <li><p style="margin-bottom: 0px">+48 22 592 FIXME</p></li>
 </ul>
-<p id="long-description">Uzyskał doktorat nauk biologicznych w Instytucie Biochemii i Biofizyki PAN. Obecnie w trakcie procesu habilitacyjnego. Pracował w Polskiej Akademii Nauk, na Uniwersytecie Warszawskim oraz DKFZ Heidelberg i MD Anderson Cancer Research Center w Texasie. Autor ponad 20 publikacji naukowych cytowanych ponad 650 razy (2017). Zajmuje się zagadnieniami związanymi z modulacja procesów komórkowych przy pomocy związków chemicznych oraz przewidywaniem ich wpływu na biologiczne systemy złożone. Wykładowca na Wydziale Matematyki, Informatyki i Mechaniki UW gdzie stworzył autorskie programy interdyscyplinarne z zakresu Bioinformatyki oraz Projektowania Leków. Współzałożyciel dwóch startupów w Polsce oraz Seattle, w których komercjalizuje działalność naukową.</p>
 </div>
 
-##### Using the float property, short text
+### PhD Students:
 
-<div class="float-container">
-  <img src="https://placehold.it/200x200" alt="">
-  <p style="margin-bottom: 0px;">Pawel Siedlecki, PhD</p>
-  <p style="margin-bottom: 0px">psiedlecki@gmail.com</p>
-  <p style="margin-bottom: 0px">+48 123456789</p>
-  <p style="margin-bottom: 0px"><a href="https://www.researchgate.net/profile/Pawel_Siedlecki">ResearchGate</a></p>
-  <p style="margin-bottom: 0px"><a href="https://scholar.google.pl/citations?user=4MGHwSYAAAAJ&hl=en">Google Scholar</a></p>
-  <p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">CV</a></p>
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul style="list-style-type:none;">
+    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Norbert Odolczyk, MSc</a></p></li>
+    <li><p style="margin-bottom: 0px">nodolczyk@ibb.waw.pl</p></li>
+    <li><p style="margin-bottom: 0px">+48 22 592 FIXME</p></li>
+</ul>
 </div>
 
-##### Using the float property, long text
-
-<div class="float-container">
-  <img src="https://placehold.it/200x200" alt="">
-  <p>Pawel Siedlecki, PhD</p>
-  <p>Mail psiedlecki@gmail.com</p>
-  <p>Phone: +48 123456789</p>
-  <p>Uzyskał doktorat nauk biologicznych w Instytucie Biochemii i Biofizyki PAN. Obecnie w trakcie procesu habilitacyjnego. Pracował w Polskiej Akademii Nauk, na Uniwersytecie Warszawskim oraz DKFZ Heidelberg i MD Anderson Cancer Research Center w Texasie. Autor ponad 20 publikacji naukowych cytowanych ponad 650 razy (2017). Zajmuje się zagadnieniami związanymi z modulacja procesów komórkowych przy pomocy związków chemicznych oraz przewidywaniem ich wpływu na biologiczne systemy złożone. Wykładowca na Wydziale Matematyki, Informatyki i Mechaniki UW gdzie stworzył autorskie programy interdyscyplinarne z zakresu Bioinformatyki oraz Projektowania Leków. Współzałożyciel dwóch startupów w Polsce oraz Seattle, w których komercjalizuje działalność naukową.</p>
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul style="list-style-type:none;">
+    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Marta Stępniewska-Dziubińska, MSc</a></p></li>
+    <li><p style="margin-bottom: 0px">FIXME@ibb.waw.pl</p></li>
+    <li><p style="margin-bottom: 0px">+48 22 592 FIXME</p></li>
+</ul>
 </div>
 
-  - SK
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul style="list-style-type:none;">
+    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Małgorzata Habich, MSc</a></p></li>
+    <li><p style="margin-bottom: 0px">FIXME@ibb.waw.pl</p></li>
+    <li><p style="margin-bottom: 0px">+48 22 592 FIXME</p></li>
+</ul>
+</div>
 
- - AM
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul style="list-style-type:none;">
+    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Dariusz Izak, MSc</a></p></li>
+    <li><p style="margin-bottom: 0px">dariusz.izak@gibb.waw.pl</p></li>
+    <li><p style="margin-bottom: 0px">+48 22 592 FIXME</p></li>
+</ul>
+</div>
 
- - Dorota
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul style="list-style-type:none;">
+    <li><p style="margin-bottom: 0px"><a href="http://webjeda.com/online-cv/">Rafał Jastrząb, MSc</a></p></li>
+    <li><p style="margin-bottom: 0px">jastrzab.rafal@gmail.com</p></li>
+    <li><p style="margin-bottom: 0px">+48 22 592 FIXME</p></li>
+</ul>
+</div>
 
-- PhD Students:
-
-  - DI (zdjecie, email, strona?)
-
-  - MSD
-
-  - GH
-
-  - RJ
 
 - Students:
 
+  - Maksymilian Mrozowski
   - Jakub Poziemski
+  - Alicja Nowakowska
+  - Michał Grosztyła
 
 - Alumni:
 
@@ -115,5 +130,3 @@ sidebar_link: true
   - Jerzy Dyczkowski PhD, Roche
 
   - Danuta Płochocka PhD, (emeritus)
-
-  - Siergiej ?
