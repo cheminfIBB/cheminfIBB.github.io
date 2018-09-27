@@ -1,0 +1,7 @@
+# ignore gemlock
+
+Gemfile.lock
+
+# ignore files generated during local preview
+
+_site/*
