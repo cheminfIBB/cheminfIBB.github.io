@@ -3,4 +3,15 @@
 ---
 
 $sidebar-width: 30%;
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex-container ul {
+  list-style-type: none;
+}
+.flex-container p {
+  font-size: 0.8em;
+  margin-bottom: 0px;
+}
 @import "hydeout";
