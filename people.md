@@ -125,9 +125,9 @@ sidebar_link: true
 
   - Albert Bogdanowicz MSc,  Novartis
 
-  - Marlena Siwiak PhD, FIXME
+  - Marlena Siwiak PhD, HARNESS Property Intelligence Ltd
 
-  - Marian Siwiak PhD, FIXME
+  - Marian Siwiak PhD, Sony Mobile Communications
 
   - prof. Andrzej Kierzek, Certara
 
