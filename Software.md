@@ -19,8 +19,6 @@ sidebar_sort_order: 5
 
 - [PLEC](https://github.com/oddt/notebooks/blob/master/PLEC_fingerprints.ipynb) [6], a method to represent ligand-receptor complexes based on local atomic environments. The method allows for very fast and accurate description of the interaction of atoms in complexes, which become the basis for training and optimization of prediction models, e.g. returning binding affinity values. PLEC provides consistent predictive results for various machine learning (ML) models. Even the linear model built using PLEC returns better results than competing solutions such as SIRILID, SPLIF or more advanced evaluation functions like RF.
 
-- [Mothulity](https://dizak.github.io/mothulity/), Easy-to-use tool facilitating work with Mothur. It can download a proper database, run SOP provided with just fastq files directory, draw few figures and wrap it all into fancy html. Handles slurm and sends e-mail notifications when the job is done.
-
 References:
 1. 	Wójcikowski M, Zielenkiewicz P, Siedlecki P. DiSCuS: an open platform for (not only) virtual screening results management. J Chem Inf Model. 2014;54: 347–354.
 2. 	Wójcikowski M, Zielenkiewicz P, Siedlecki P. Open Drug Discovery Toolkit (ODDT): a new open-source player in the drug discovery field. J Cheminform. 2015;7: 26.
@@ -28,8 +26,10 @@ References:
 4. 	Stepniewska-Dziubinska MM, Zielenkiewicz P, Siedlecki P. Development and evaluation of a deep learning model for protein-ligand binding affinity prediction. Bioinformatics. 2018 May 10
 5. 	Stepniewska-Dziubinska MM, Zielenkiewicz P, Siedlecki P. DeCAF-Discrimination, Comparison, Alignment Tool for 2D PHarmacophores. Molecules. 2017;22. doi:10.3390/molecules22071128
 6. 	Wójcikowski M, Kukiełka M, Stepniewska-Dziubinska MM, Siedlecki P. Development of a Protein-Ligand Extended Connectivity (PLEC) fingerprint and its application for binding affinity predictions. Bioinformatics. 2018 Sep 8.
-*Genomics*
-(...)
+
+*Omics*
+
+- [Mothulity](https://dizak.github.io/mothulity/), Easy-to-use tool facilitating work with Mothur. It can download a proper database, run SOP provided with just fastq files directory, draw figures and display results as an interactive html page. Handles slurm and sends e-mail notifications when the job is done.
 
 *Datamining*
 (...)
