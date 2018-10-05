@@ -19,6 +19,8 @@ sidebar_sort_order: 5
 
 - [PLEC](https://github.com/oddt/notebooks/blob/master/PLEC_fingerprints.ipynb) [6], a method to represent ligand-receptor complexes based on local atomic environments. The method allows for very fast and accurate description of the interaction of atoms in complexes, which become the basis for training and optimization of prediction models, e.g. returning binding affinity values. PLEC provides consistent predictive results for various machine learning (ML) models. Even the linear model built using PLEC returns better results than competing solutions such as SIRILID, SPLIF or more advanced evaluation functions like RF.
 
+- [Mothulity](https://dizak.github.io/mothulity/), Easy-to-use tool facilitating work with Mothur. It can download a proper database, run SOP provided with just fastq files directory, draw few figures and wrap it all into fancy html. Handles slurm and sends e-mail notifications when the job is done.
+
 References:
 1. 	Wójcikowski M, Zielenkiewicz P, Siedlecki P. DiSCuS: an open platform for (not only) virtual screening results management. J Chem Inf Model. 2014;54: 347–354.
 2. 	Wójcikowski M, Zielenkiewicz P, Siedlecki P. Open Drug Discovery Toolkit (ODDT): a new open-source player in the drug discovery field. J Cheminform. 2015;7: 26.
