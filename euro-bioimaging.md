@@ -2,6 +2,7 @@
 layout: page
 title: EURO-BIOIMAGING
 sidebar_link: true
+sidebar_sort_order: 8
 ---
 
 PL.EURO-BIOIMAGING

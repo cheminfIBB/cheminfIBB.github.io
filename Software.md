@@ -2,7 +2,7 @@
 layout: page
 title: Software
 sidebar_link: true
-sidebar_sort_order: 5
+sidebar_sort_order: 4
 ---
 *Cheminformatics and structural biology*
 - In silico high throughput molecular screening system based on various docking engines (DOCK, GOLD, Autodock, VINA and GLIDE XP / SP) and a dozen evaluation functions including own solutions.
