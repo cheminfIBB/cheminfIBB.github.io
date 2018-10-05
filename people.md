@@ -4,44 +4,118 @@ title: People
 sidebar_link: true
 ---
 
-- Head:
+### Head
 
-  - PZ
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <p>Piotr Zielenkiewicz, PhD, prof.</p>
+</div>
 
-- Principal investigators:
+### Staff
 
-  - Pawel Siedlecki, PhD
+##### Omics data analysis and visualization
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul>
+    <li><p><a href="http://webjeda.com/online-cv/">Agnieszka Gromadka, MSc</a></p></li>
+    <li><p>agromadka@ibb.waw.pl</p></li>
+    <li><p>+48 22 592 5758</p></li>
+  </ul>
+</div>
 
-  [ResearchGate](https://www.researchgate.net/profile/Pawel_Siedlecki)
-
-  [Google Scholar](https://scholar.google.pl/citations?user=4MGHwSYAAAAJ&hl=en)
-
-  [CV](http://webjeda.com/online-cv/)
-
-  Uzyskał doktorat nauk biologicznych w Instytucie Biochemii i Biofizyki PAN. Obecnie w trakcie procesu habilitacyjnego. Pracował w Polskiej Akademii Nauk, na Uniwersytecie Warszawskim oraz DKFZ Heidelberg i MD Anderson Cancer Research Center w Texasie. Autor ponad 20 publikacji naukowych cytowanych ponad 650 razy (2017). Zajmuje się zagadnieniami związanymi z modulacja procesów komórkowych przy pomocy związków chemicznych oraz przewidywaniem ich wpływu na biologiczne systemy złożone. Wykładowca na Wydziale Matematyki, Informatyki i Mechaniki UW gdzie stworzył autorskie programy interdyscyplinarne z zakresu Bioinformatyki oraz Projektowania Leków. Współzałożyciel dwóch startupów w Polsce oraz Seattle, w których komercjalizuje działalność naukową.
 
 
-  - SK
+### Principal investigators
 
- - AM
+##### Cheminformatics, structural biology, systems medicine
 
- - Dorota
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul>
+    <li><p><a href="http://webjeda.com/online-cv/">Pawel Siedlecki, PhD</a></p></li>
+    <li><p>pawel@ibb.waw.pl</p></li>
+    <li><p>+48 22 592 5761</p></li>
+  </ul>
+</div>
 
-- PhD Students:
+##### Population genetics, evolutionary bioinformatics
 
-  - DI (zdjecie, email, strona?)
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul>
+    <li><p><a href="http://webjeda.com/online-cv/">Szymon Kaczanowski, PhD</a></p></li>
+    <li><p>szymon@ibb.waw.pl</p></li>
+    <li><p>+48 22 592 FIXME</p></li>
+  </ul>
+</div>
 
-  - MSD
+##### Computational Chemistry, Organic Photovoltaics & Photochemistry
 
-  - GH
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul>
+    <li><p><a href="http://webjeda.com/online-cv/">Dorota Niedziałek, PhD</a></p></li>
+    <li><p>FIXME@ibb.waw.pl</p></li>
+    <li><p>+48 22 592 5758</p></li>
+  </ul>
+</div>
 
-  - RJ
+### PhD Students:
 
-- Students:
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul>
+    <li><p><a href="http://webjeda.com/online-cv/">Norbert Odolczyk, MSc</a></p></li>
+    <li><p>nodolczyk@ibb.waw.pl</p></li>
+    <li><p>+48 22 592 5758</p></li>
+  </ul>
+</div>
 
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul>
+    <li><p><a href="http://webjeda.com/online-cv/">Marta Stępniewska-Dziubińska, MSc</a></p></li>
+    <li><p>FIXME@ibb.waw.pl</p></li>
+    <li><p>+48 22 592 5758</p></li>
+  </ul>
+</div>
+
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul>
+    <li><p><a href="http://webjeda.com/online-cv/">Małgorzata Habich, MSc</a></p></li>
+    <li><p>malgorzata.habich@gmail.com</p></li>
+    <li><p>+48 22 592 5758</p></li>
+  </ul>
+</div>
+
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul>
+    <li><p><a href="http://webjeda.com/online-cv/">Dariusz Izak, MSc</a></p></li>
+    <li><p>dariusz.izak@ibb.waw.pl</p></li>
+    <li><p>+48 22 592 5758</p></li>
+  </ul>
+</div>
+
+<div class="flex-container">
+  <img src="https://placehold.it/100x100" alt="">
+  <ul>
+    <li><p><a href="http://webjeda.com/online-cv/">Rafał Jastrząb, MSc</a></p></li>
+    <li><p>jastrzab.rafal@gmail.com</p></li>
+    <li><p>+48 22 592 5758</p></li>
+  </ul>
+</div>
+
+
+### Students:
+
+  - Maksymilian Mrozowski
   - Jakub Poziemski
+  - Alicja Nowakowska
+  - Michał Grosztyła
 
-- Alumni:
+### Alumni:
 
   - Maciej Wójcikowski PhD, currently at Merck
 
@@ -51,10 +125,12 @@ sidebar_link: true
 
   - Albert Bogdanowicz MSc,  Novartis
 
+  - Marlena Siwiak PhD, FIXME
+
+  - Marian Siwiak PhD, FIXME
+
   - prof. Andrzej Kierzek, Certara
 
   - Jerzy Dyczkowski PhD, Roche
 
   - Danuta Płochocka PhD, (emeritus)
-
-  - Siergiej ?
