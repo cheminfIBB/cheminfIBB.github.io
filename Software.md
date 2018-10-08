@@ -26,8 +26,10 @@ References:
 4. 	Stepniewska-Dziubinska MM, Zielenkiewicz P, Siedlecki P. Development and evaluation of a deep learning model for protein-ligand binding affinity prediction. Bioinformatics. 2018 May 10
 5. 	Stepniewska-Dziubinska MM, Zielenkiewicz P, Siedlecki P. DeCAF-Discrimination, Comparison, Alignment Tool for 2D PHarmacophores. Molecules. 2017;22. doi:10.3390/molecules22071128
 6. 	Wójcikowski M, Kukiełka M, Stepniewska-Dziubinska MM, Siedlecki P. Development of a Protein-Ligand Extended Connectivity (PLEC) fingerprint and its application for binding affinity predictions. Bioinformatics. 2018 Sep 8.
-*Genomics*
-(...)
+
+*Omics*
+
+- [Mothulity](https://dizak.github.io/mothulity/), Easy-to-use tool facilitating work with Mothur. It can download a proper database, run SOP provided with just fastq files directory, draw figures and display results as an interactive html page. Handles slurm and sends e-mail notifications when the job is done.
 
 *Datamining*
 
