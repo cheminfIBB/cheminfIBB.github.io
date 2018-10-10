@@ -33,20 +33,20 @@ sidebar_sort_order: 1
 <div class="flex-container">
   <img src="assets/img/PSiedlecki.png" alt="">
   <ul>
-    <li><p><a href="http://webjeda.com/online-cv/">Pawel Siedlecki, PhD</a></p></li>
+    <li><p><a href="https://scholar.google.pl/citations?hl=en&user=4MGHwSYAAAAJ">Pawel Siedlecki, PhD</a></p></li>
     <li><p>pawel@ibb.waw.pl</p></li>
     <li><p>+48 22 592 5761</p></li>
   </ul>
 </div>
 
-##### Population genetics, evolutionary bioinformatics
+##### Apoptosis, evolutionary bioinformatics
 
 <div class="flex-container">
-  <img src="https://placehold.it/100x100" alt="">
+  <img src="assets/img/SKaczanowski.JPG" alt="">
   <ul>
-    <li><p><a href="http://webjeda.com/online-cv/">Szymon Kaczanowski, PhD</a></p></li>
+    <li><p><a href="https://www.researchgate.net/profile/Szymon_Kaczanowski">Szymon Kaczanowski, PhD</a></p></li>
     <li><p>szymon@ibb.waw.pl</p></li>
-    <li><p>+48 22 592 FIXME</p></li>
+    <li><p>+48 22 592 5763</p></li>
   </ul>
 </div>
 
@@ -55,11 +55,23 @@ sidebar_sort_order: 1
 <div class="flex-container">
   <img src="https://placehold.it/100x100" alt="">
   <ul>
-    <li><p><a href="http://webjeda.com/online-cv/">Dorota Niedziałek, PhD</a></p></li>
+    <li><p><a href="https://scholar.google.pl/citations?user=BKDfA3sAAAAJ&hl=en">Dorota Niedziałek, PhD</a></p></li>
     <li><p>FIXME@ibb.waw.pl</p></li>
-    <li><p>+48 22 592 5758</p></li>
+    <li><p>+48 22 592 5760</p></li>
   </ul>
 </div>
+
+##### Reaction kinetics, Membrane biophysics, Systems biology
+
+<div class="flex-container">
+  <img src="assets/img/PPawlowski.png" alt="">
+  <ul>
+    <li><p><a href="https://scholar.google.pl/citations?user=CvnQtdcAAAAJ&hl=en">Piotr Pawłowski, PhD</a></p></li>
+    <li><p>piotrp@ibb.waw.pl</p></li>
+    <li><p>+48 22 592 5760</p></li>
+  </ul>
+</div>
+
 
 ### PhD Students:
 
