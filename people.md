@@ -31,7 +31,7 @@ sidebar_sort_order: 1
 ##### Cheminformatics, structural biology, systems medicine
 
 <div class="flex-container">
-  <img src="https://placehold.it/100x100" alt="">
+  <img src="assets/img/PSiedlecki.png" alt="">
   <ul>
     <li><p><a href="http://webjeda.com/online-cv/">Pawel Siedlecki, PhD</a></p></li>
     <li><p>pawel@ibb.waw.pl</p></li>
