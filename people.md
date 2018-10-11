@@ -103,9 +103,9 @@ sidebar_sort_order: 1
 </div>
 
 <div class="flex-container">
-  <img src="https://placehold.it/100x100" alt="">
+  <img src="assets/img/DIzak.jpeg" alt="Dariusz Izak">
   <ul>
-    <li><p><a href="http://webjeda.com/online-cv/">Dariusz Izak, MSc</a></p></li>
+    <li><p><a href="https://dizak.github.io/online-cv/">Dariusz Izak, MSc</a></p></li>
     <li><p>dariusz.izak@ibb.waw.pl</p></li>
     <li><p>+48 22 592 5758</p></li>
   </ul>
