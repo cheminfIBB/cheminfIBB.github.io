@@ -5,18 +5,20 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
 
-### Head
-
+### Head of Department
 <div class="flex-container">
-  <img src="https://placehold.it/100x100" alt="">
-  <p>Piotr Zielenkiewicz, PhD, prof.</p>
+  <img src="assets/img/PZielenkiewicz.png" alt="">
+  <ul>
+    <li></li>
+    <li><p><b>Piotr Zielenkiewicz</b>, PhD, prof.</p></li>
+  </ul>
 </div>
 
 ### Staff
 
 ##### Omics data analysis and visualization
 <div class="flex-container">
-  <img src="https://placehold.it/100x100" alt="">
+  <img src="assets/img/AGromadka.png" alt="">
   <ul>
     <li><p><a href="http://webjeda.com/online-cv/">Agnieszka Gromadka, MSc</a></p></li>
     <li><p>agromadka@ibb.waw.pl</p></li>
@@ -44,7 +46,7 @@ sidebar_sort_order: 1
 <div class="flex-container">
   <img src="assets/img/SKaczanowski.JPG" alt="">
   <ul>
-    <li><p><a href="https://www.researchgate.net/profile/Szymon_Kaczanowski">Szymon Kaczanowski, PhD</a></p></li>
+    <li><p><a href="https://scholar.google.pl/citations?user=6dU16i0AAAAJ&hl=en">Szymon Kaczanowski, PhD</a></p></li>
     <li><p>szymon@ibb.waw.pl</p></li>
     <li><p>+48 22 592 5763</p></li>
   </ul>
@@ -53,7 +55,7 @@ sidebar_sort_order: 1
 ##### Computational Chemistry, Organic Photovoltaics & Photochemistry
 
 <div class="flex-container">
-  <img src="https://placehold.it/100x100" alt="">
+  <img src="assets/img/DNiedzielak.png" alt="">
   <ul>
     <li><p><a href="https://scholar.google.pl/citations?user=BKDfA3sAAAAJ&hl=en">Dorota Niedziałek, PhD</a></p></li>
     <li><p>FIXME@ibb.waw.pl</p></li>
@@ -76,18 +78,18 @@ sidebar_sort_order: 1
 ### PhD Students:
 
 <div class="flex-container">
-  <img src="https://placehold.it/100x100" alt="">
+  <img src="assets/img/NOdolczyk.png" alt="">
   <ul>
-    <li><p><a href="http://webjeda.com/online-cv/">Norbert Odolczyk, MSc</a></p></li>
+    <li><p><a href="https://www.researchgate.net/profile/Norbert_Odolczyk">Norbert Odolczyk, MSc</a></p></li>
     <li><p>nodolczyk@ibb.waw.pl</p></li>
     <li><p>+48 22 592 5758</p></li>
   </ul>
 </div>
 
 <div class="flex-container">
-  <img src="https://placehold.it/100x100" alt="">
+  <img src="assets/img/MSD.png" alt="">
   <ul>
-    <li><p><a href="http://webjeda.com/online-cv/">Marta Stępniewska-Dziubińska, MSc</a></p></li>
+    <li><p><a href="https://www.researchgate.net/profile/Marta_Stepniewska-Dziubinska">Marta Stępniewska-Dziubińska, MSc</a></p></li>
     <li><p>FIXME@ibb.waw.pl</p></li>
     <li><p>+48 22 592 5758</p></li>
   </ul>
@@ -97,13 +99,13 @@ sidebar_sort_order: 1
   <img src="https://placehold.it/100x100" alt="">
   <ul>
     <li><p><a href="http://webjeda.com/online-cv/">Małgorzata Habich, MSc</a></p></li>
-    <li><p>malgorzata.habich@gmail.com</p></li>
+    <li><p>malgorzata.habich@ibb.waw.pl</p></li>
     <li><p>+48 22 592 5758</p></li>
   </ul>
 </div>
 
 <div class="flex-container">
-  <img src="assets/img/DIzak.jpeg" alt="Dariusz Izak">
+  <img src="assets/img/DIzak.png" alt="Dariusz Izak">
   <ul>
     <li><p><a href="https://dizak.github.io/online-cv/">Dariusz Izak, MSc</a></p></li>
     <li><p>dariusz.izak@ibb.waw.pl</p></li>
@@ -112,9 +114,9 @@ sidebar_sort_order: 1
 </div>
 
 <div class="flex-container">
-  <img src="https://placehold.it/100x100" alt="">
+  <img src="assets/img/RJastrzab.png" alt="">
   <ul>
-    <li><p><a href="http://webjeda.com/online-cv/">Rafał Jastrząb, MSc</a></p></li>
+    <li><p><a href="http://olimpacademy.com/speaker/rafal-jastrzab/">Rafał Jastrząb, MSc</a></p></li>
     <li><p>jastrzab.rafal@gmail.com</p></li>
     <li><p>+48 22 592 5758</p></li>
   </ul>
@@ -127,6 +129,7 @@ sidebar_sort_order: 1
   - Jakub Poziemski
   - Alicja Nowakowska
   - Michał Grosztyła
+  - Radosław Bielecki
 
 ### Alumni:
 
@@ -135,6 +138,8 @@ sidebar_sort_order: 1
   - Anna Łukasik PhD, AstraZeneca
 
   - Arkadiusz Gładki PhD, Roche
+
+  - Grzegorz Wieczorek PhD, iQor
 
   - Albert Bogdanowicz MSc,  Novartis
 
